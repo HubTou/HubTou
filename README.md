@@ -1,5 +1,5 @@
-[![HubTou's GitHub stats](https://github-readme-stats.vercel.app/api?username=HubTou&show_icons=true&hide_title=true)](https://github.com/HubTou/github-readme-stats)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HubTou&show_icons=true&hide_title=true)](https://github.com/HubTou/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HubTou&layout=compact&langs_count=10)](https://github.com/HubTou/github-readme-stats)
 <!--
 **HubTou/HubTou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
