@@ -1,4 +1,9 @@
-Hello, world!
+**Hello, world!** Welcome to my *open source* repositories.
+
+Most of what I publish here is complete and ready-to-use (check the [repositories status here](https://github.com/users/HubTou/projects/1/views/1)), though I would welcome contributors to the [PNU](https://github.com/HubTou/PNU) project.
+
+You can also go to my [3D models](https://cults3d.com/en/utilisateurs/HubTou/cr%C3%A9ations).
+
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HubTou&PAT_1=HubTou&show_icons=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HubTou&PAT_1=HubTou&layout=compact&langs_count=10)
