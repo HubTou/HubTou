@@ -4,8 +4,6 @@ Most of what I publish here is complete and ready-to-use (check the [repositorie
 
 You can also go to my [3D models](https://cults3d.com/en/users/HubTou/creations).
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HubTou&layout=compact&langs_count=10)
-
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HubTou&show_icons=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HubTou&layout=compact&langs_count=10)
