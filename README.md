@@ -1,8 +1,10 @@
 **Hello, world!** Welcome to my *open source* repositories.
 
-Most of what I publish here is complete and ready-to-use (check [my repositories status here](https://github.com/users/HubTou/projects/1/views/1)), though I would welcome contenders to the [PNU](https://github.com/HubTou/PNU) challenge project.
+Most of what I publish here is complete and ready-to-use (check my repos status below) and made available for free under the ["copycenter"](http://www.catb.org/jargon/html/C/copycenter.html) [BSD license](https://opensource.org/licenses/BSD-3-Clause).
 
-[![stars](https://img.shields.io/github/stars/HubTou?label=Stars)](https://github.com/HubTou) [![gists](https://img.shields.io/badge/Go%20to-my%20gists-1abc9c.svg)](https://gist.github.com/HubTou) [![3D models](https://img.shields.io/badge/Go%20to-my%203D%20models-1abc9c.svg)](https://cults3d.com/en/users/HubTou/creations)
+I would welcome contenders to the [PNU](https://github.com/HubTou/PNU) challenge project.
+
+[![stars](https://img.shields.io/github/stars/HubTou?label=Stars)](https://github.com/HubTou) [![repos status](https://img.shields.io/badge/Go%20to-my%20repos%20status-1abc9c.svg)](https://github.com/users/HubTou/projects/1/views/1) [![gists](https://img.shields.io/badge/Go%20to-my%20gists-1abc9c.svg)](https://gist.github.com/HubTou) [![pypi](https://img.shields.io/badge/Go%20to-my%20Python%20pkg-1abc9c.svg)](https://pypi.org/user/HubTou/) [![3D models](https://img.shields.io/badge/Go%20to-my%203D%20models-1abc9c.svg)](https://cults3d.com/en/users/HubTou/creations)
 
 <table>
 <tr>
