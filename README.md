@@ -1,6 +1,6 @@
 **Hello, world!** Welcome to my *open source* repositories.
 
-Most of what I publish here is complete and ready-to-use (check my repos status below) and made available for free under the ["copycenter"](http://www.catb.org/jargon/html/C/copycenter.html) [BSD license](https://opensource.org/licenses/BSD-3-Clause).
+Most of what I publish here is complete, ready-to-use (check my repos status below) and made available for free under the "[copycenter](http://www.catb.org/jargon/html/C/copycenter.html)" [BSD license](https://opensource.org/licenses/BSD-3-Clause).
 
 I would welcome contenders to the [PNU](https://github.com/HubTou/PNU) challenge project.
 
@@ -9,7 +9,7 @@ I would welcome contenders to the [PNU](https://github.com/HubTou/PNU) challenge
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HubTou&layout=compact&langs_count=10">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HubTou&layout=compact&langs_count=10" alt="Most Used Languages">
 </td>
 <td>
 <dl>
