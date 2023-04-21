@@ -22,10 +22,10 @@ Main programming languages:
 Python, C, Bourne Shell, AWK, Java, SQL
 </dd>
 <dt>
-Other (almost forgotten!) programming languages:
+Other (mostly forgotten!) programming languages:
 </dt>
 <dd>
-PHP, Perl, C++, JavaScript, NCL, PL/SQL, Smalltalk, Lisp, misc batch languages, Modula2, Cobol, Pascal, misc assemblers, Logo, misc BASICs
+PHP, Perl, C++, JavaScript, NCL, PL/SQL, Prolog, Smalltalk, Lisp, misc batch languages, Modula2, Cobol, Pascal, misc assemblers, Logo, misc BASICs
 </dd>
 <dt>
 Documentation languages:
