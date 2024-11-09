@@ -29,7 +29,7 @@ Python, C, Bourne Shell, AWK, SQL
 Other (mostly forgotten!) programming languages:
 </dt>
 <dd>
-Java, PHP, Perl, C++, JavaScript, NCL, PL/SQL, TCL/TK, Prolog, Smalltalk, Lisp, misc batch languages, Modula2, Cobol, Pascal, misc assemblers, Logo, misc BASICs
+Lua, Java, PHP, Perl, C++, JavaScript, NCL, PL/SQL, TCL/TK, Prolog, Smalltalk, Lisp, misc batch languages, Modula2, Cobol, Pascal, misc assemblers, Logo, misc BASICs
 </dd>
 <dt>
 Documentation languages:
