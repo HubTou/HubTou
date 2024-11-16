@@ -23,13 +23,13 @@ Main programming languages:
 </font>
 </dt>
 <dd>
-Python, C, Bourne Shell, AWK, SQL
+Python, C, Bourne Shell, SQL
 </dd>
 <dt>
 Other (mostly forgotten!) programming languages:
 </dt>
 <dd>
-Lua, Java, PHP, Perl, C++, JavaScript, NCL, PL/SQL, TCL/TK, Prolog, Smalltalk, Lisp, misc batch languages, Modula2, Cobol, Pascal, misc assemblers, Logo, misc BASICs
+Lua, Java, PHP, Perl, C++, JavaScript, NCL, PL/SQL, TCL/TK, Prolog, Smalltalk, Lisp, misc batch languages, Modula2, AWK, Cobol, Pascal, misc assemblers, Logo, misc BASICs
 </dd>
 <dt>
 Documentation languages:
