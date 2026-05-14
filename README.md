@@ -7,7 +7,7 @@ I would welcome contenders to the [PNU](https://github.com/HubTou/PNU) challenge
 [![number of stars](https://img.shields.io/github/stars/HubTou?label=Stars)](https://github.com/HubTou)
 [![PyPI](https://img.shields.io/badge/Go%20to-my%20Python%20pkg-1abc9c.svg)](https://pypi.org/user/HubTou/)
 [![FreeBSD ports](https://img.shields.io/badge/Go%20to-my%20FreeBSD%20ports-1abc9c.svg)](https://www.freshports.org/search.php?stype=maintainer&method=exact&query=hubert.tournier%40gmail.com)
-[![3D models](https://img.shields.io/badge/Go%20to-my%203D%20models-1abc9c.svg)](https://cults3d.com/en/users/HubTou/creations)
+[![3D models](https://img.shields.io/badge/Go%20to-my%203D%20models-1abc9c.svg)](https://cults3d.com/en/users/HubTou/3d-models)
 [![gists](https://img.shields.io/badge/Go%20to-my%20gists-1abc9c.svg)](https://gist.github.com/HubTou)
 
 <table>
